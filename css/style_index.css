@@ -24,9 +24,36 @@ body {
     font-weight: 900;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1;
+    line-height: 48px;
     letter-spacing: 1px;
     text-align: center;
+    color: #000;
+}
+
+.short-description {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: Nunito;
+    font-size: 28px;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 36px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #000;
+}
+
+.long-description {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: 1px;
     color: #000;
 }
 
@@ -34,9 +61,10 @@ body {
     margin-left: 80px;
     margin-right: 80px;
     margin-top: 62px;
+    text-transform: uppercase;
     font-family: Nunito;
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 500;
     font-stretch: normal;
     font-style: normal;
     line-height: 1;
